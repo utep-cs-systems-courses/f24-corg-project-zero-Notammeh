@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include "draw.h" // project-related declarations
 
@@ -48,4 +47,3 @@ int main()
  done: // To exit from program
   return 0;
 }
-
